@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<data-set>
+	<tipo>Estudos em Literatura Infantojuvenil</tipo> 
+	<titulo>Mapeamento Estético e Literatura</titulo>
+	<codigo>EST-01052024</codigo>
+	<mes>05</mes>
+	<ano>2024</ano>
+	<eventos>2</eventos>
+	<deltaCertificado>60</deltaCertificado>
+	<deltaAntes>6</deltaAntes>
+	<deltaApos>6</deltaApos>
+	<plano data="16/05/2024">
+		<mesa deltaCertificado="60">
+			<nome>Mapeamento da experiência estética de livros para a infância e para a juventude: desafios e contribuições</nome>
+			<link>https://www.youtube.com/watch?v=qz6JwS2pITc</link>
+			<index>1</index>		
+			<start>
+				<inicio>11:00</inicio>
+				<fim>12:00</fim>
+			</start>
+			<end>
+				<inicio>13:00</inicio>
+				<fim>14:00</fim>
+			</end>
+		</mesa>		
+	</plano>
+	<plano data="17/05/2024">
+		<mesa deltaCertificado="60">
+			<nome>Mapeamentos e dramas do imaginário: contribuições para o trabalho com o teatro infantil</nome>
+			<link>https://www.youtube.com/watch?v=zO5KzXgg5Rk</link>
+			<index>2</index>		
+			<start>
+				<inicio>11:00</inicio>
+				<fim>12:00</fim>
+			</start>
+			<end>
+				<inicio>12:00</inicio>
+				<fim>13:00</fim>
+			</end>	
+		</mesa>
+		<mesa deltaCertificado="60">
+			<nome>Mapeamento da experiência estética de livros para a infância e para a juventude: desafios e contribuições</nome>
+			<link>https://www.youtube.com/watch?v=qz6JwS2pITc</link>
+			<index>3</index>		
+			<start>
+				<inicio>18:00</inicio>
+				<fim>20:00</fim>
+			</start>
+			<end>
+				<inicio>20:00</inicio>
+				<fim>21:00</fim>
+			</end>
+		</mesa>		
+	</plano>	
+</data-set>
